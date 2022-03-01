@@ -1,5 +1,5 @@
 # Business-Data-Security
-DataSecurity sqL -com.xpundergroundads.app-; business-java-app; secure-dataMap; 
+DataSecurity sqL; business-java-app; secure-dataMap; 
 dataLocation (?)
 ...
 n+
